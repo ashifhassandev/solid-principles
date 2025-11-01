@@ -26,5 +26,3 @@ This note provides a **clean, example-driven explanation** of SOLID principles w
 - Scalable and maintainable systems  
 - Modular and testable codebases  
 - Framework-agnostic architectures  
-
----
