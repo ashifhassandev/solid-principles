@@ -1,9 +1,6 @@
 ````markdown
 # SOLID Principles in Software Design  
-### Building Scalable, Maintainable, and Flexible Applications with Clean Code  
-
-**Author:** Albin Aji  
-**Date:** September 17, 2025  
+### Building Scalable, Maintainable, and Flexible Applications with Clean Code    
 
 ---
 
