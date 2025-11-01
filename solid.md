@@ -1,5 +1,3 @@
----
-
 ````markdown
 # SOLID Principles in Software Design  
 ### Building Scalable, Maintainable, and Flexible Applications with Clean Code  
@@ -234,5 +232,3 @@ When applied consistently within **Clean Architecture**, they lead to systems th
 * *Clean Architecture* — *A Craftsman’s Guide to Software Structure and Design*
 
 ---
-
-```
