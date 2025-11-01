@@ -227,5 +227,3 @@ When applied consistently within **Clean Architecture**, they lead to systems th
 
 * *Robert C. Martin (Uncle Bob)* — *Agile Software Development: Principles, Patterns, and Practices*
 * *Clean Architecture* — *A Craftsman’s Guide to Software Structure and Design*
-
----
